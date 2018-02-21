@@ -48,7 +48,7 @@ Next question: what is so special about this __mapStateToProps()__ method that i
 
 const vanilla = (milkshake) => {
   debugger;
-  return { items: milksake.items }
+  return { items: milkshake.items }
 }
 
 export default connect(vanilla)(App);
